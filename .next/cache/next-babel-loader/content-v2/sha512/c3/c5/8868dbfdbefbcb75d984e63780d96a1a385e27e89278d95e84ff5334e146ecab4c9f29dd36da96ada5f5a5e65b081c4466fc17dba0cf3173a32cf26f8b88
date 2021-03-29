@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function Indexpage() {\n  return;\n}","map":{"version":3,"sources":["/Users/msoleym/Advanced-React/sick-fits/frontend/pages/index.js"],"names":["Indexpage"],"mappings":"AAAA,eAAe,SAASA,SAAT,GAAqB;AAChC;AACH","sourcesContent":["export default function Indexpage() {\n    return\n}\n"]},"metadata":{},"sourceType":"module"}
