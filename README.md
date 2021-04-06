@@ -12,4 +12,5 @@ An online marketplace to sell products
   - clone the repo
   - `yarn` for dependencies installation
   - `yarn run dev` running locally
+  - `yarn build` build for production
  
