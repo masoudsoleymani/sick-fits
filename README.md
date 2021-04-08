@@ -1,5 +1,5 @@
 # sick-fits
-An online marketplace built with React and GraphQL.
+An online marketplace built with React and GraphQL
 
 ## Setup
  
@@ -14,3 +14,5 @@ An online marketplace built with React and GraphQL.
   - `yarn run dev` running locally
   - `yarn build` build for production
  
+## Running the tests
+-
