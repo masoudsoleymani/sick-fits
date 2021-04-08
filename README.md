@@ -1,5 +1,5 @@
 # sick-fits
-An online marketplace to sell products
+An online marketplace built with React and GraphQL.
 
 ## Setup
  
