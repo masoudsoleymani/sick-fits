@@ -4,7 +4,7 @@ An online marketplace built with React and GraphQL
 ## Setup
  
 ### Prerequisites
-  - [Node.js](https://nodejs.org/en/ {:target="_blank"})
+  - [Node.js](https://nodejs.org/en/)
   - [yarn](https://classic.yarnpkg.com/en/docs/install/)
  
 ### Installation
