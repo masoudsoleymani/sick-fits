@@ -13,6 +13,3 @@ An online marketplace built with React and GraphQL
   - `yarn` for dependencies installation
   - `yarn run dev` running locally
   - `yarn build` build for production
- 
-## Running the tests
--
