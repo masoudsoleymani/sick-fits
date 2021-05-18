@@ -1,5 +1,5 @@
 # sick-fits
-An online marketplace built with React and GraphQL
+An online marketplace built with Node.JS and GraphQL. Part of a premium traning course from [Wes Bos](https://github.com/wesbos)
 
 ## Setup
  
