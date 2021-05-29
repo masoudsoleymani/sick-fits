@@ -31,10 +31,9 @@ export default function SignUp() {
   });
   async function handleSubmit(e) {
     e.preventDefault(); // stop the form from submitting
-    console.log(inputs);
+    console.log("4- SignUp inputs:: ", inputs);
     const res = await signup().catch(console.error);
-    console.log(res);
-    console.log({ data, loading, error });
+    console.log('4- SignUp Respond from backend::', res);
     resetForm();
     // Send the email and password to the graphqlAPI
   }
@@ -81,7 +80,7 @@ export default function SignUp() {
             onChange={handleChange}
           />
         </label>
-        <button type="submit">Sign In!</button>
+        <button type="submit">Sign Up!</button>
       </fieldset>
     </Form>
   );

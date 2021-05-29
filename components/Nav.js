@@ -7,6 +7,7 @@ import { useUser } from './User';
 
 export default function Nav() {
   const user = useUser();
+  console.log("1- graphql current user::",user);
 
   // const { openCart } = useCart();
   return (

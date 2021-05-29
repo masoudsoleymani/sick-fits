@@ -27,10 +27,9 @@ export default function RequestReset() {
   );
   async function handleSubmit(e) {
     e.preventDefault(); // stop the form from submitting
-    console.log(inputs);
+    console.log('5- Request to reset password', inputs);
     const res = await signup().catch(console.error);
-    console.log(res);
-    console.log({ data, loading, error });
+    console.log('5- Response from backend to reset password::', res);
     resetForm();
     // Send the email and password to the graphqlAPI
   }

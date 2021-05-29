@@ -35,9 +35,9 @@ export default function SignIn() {
   });
   async function handleSubmit(e) {
     e.preventDefault(); // stop the form from submitting
-    console.log(inputs);
+
     const res = await signin();
-    console.log(res);
+    console.log('2- SignIn Respond from backend::', res);
     resetForm();
     // Send the email and password to the graphqlAPI
   }
@@ -46,6 +46,7 @@ export default function SignIn() {
     'UserAuthenticationWithPasswordFailure'
       ? data?.authenticateUserWithPassword
       : undefined;
+
   return (
     <Form method="POST" onSubmit={handleSubmit}>
       <h2>Sign Into Your Account</h2>
