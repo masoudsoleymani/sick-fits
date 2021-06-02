@@ -1,5 +1,6 @@
 # Sick-Fits-UI
-An online marketplace built with Node.JS and GraphQL. Part of a premium traning course from [Wes Bos](https://github.com/wesbos)
+A full stack online clothing store complete with real credit checkout. Users can search, sell, add to cart and checkout their favourite items.
+Part of a premium traning course from [Wes Bos](https://github.com/wesbos)
 
 ## Setup
  
